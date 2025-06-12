@@ -7,6 +7,7 @@
 
 SWT is a cross-platform GUI library for JVM based desktop applications.
 The best known SWT-based application is [Eclipse](https://www.eclipse.org).
+A simple change in the Branch.
 
 ## Getting Started
 
